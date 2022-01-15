@@ -1,0 +1,38 @@
+#tutorials{
+    width: auto; height: auto;
+    max-width: 1000px;
+    max-height: 1000px;
+    text-align: center;
+    display: block;
+    margin: 50px auto;
+}
+#subject{
+    width: auto; height: auto;
+    max-width: 1000px;
+    max-height: 1000px;
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}
+a{
+    text-decoration: none;
+}
+body{
+    font-family: 'Jua', sans-serif;
+}
+#top{
+    text-align: center;
+
+}
+#leather,#Hanji,#napkin,#wallet,#note,#cell_phone_case{
+    width: auto; height: auto;
+    max-width: 1000px;
+    max-height: 1000px;
+    text-align: center;
+    display: block;
+    margin: 50px auto;
+}
+#leather{
+    font-size: 50px;
+    text-align: center;
+}
